@@ -1,4 +1,5 @@
-![image](https://github.com/DiasAmangeldy/Twix/assets/171032458/1e8367f1-b067-4468-95ae-d83a61b6e152)
+![image](https://github.com/DiasAmangeldy/Twix/assets/171032458/a12383c6-c0d1-47b4-8a5b-45197c4a5e69)
+
 
 
 
@@ -36,6 +37,11 @@ We use a lot of sensors. But the most important of them are: Ultrasonic sensor a
 
 
 # Obstacle management
+
+
+
+![image](https://github.com/DiasAmangeldy/Twix/assets/171032458/1053db97-af22-49c8-8c18-3add4833e1ab)
+
 
 
 Obstacle management is our 2nd round. Round 2 seemed very difficult to us and we spent a lot of time on Round 1 to complete it. We completed round 2 with the last remaining time. We used a color sensor for round 2. When he sees red he turns to the right and when he sees green he turns right. Our tactic is to complete round 1 and round 2 with at least 10 points.
