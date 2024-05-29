@@ -50,6 +50,11 @@ Obstacle management is our 2nd round. Round 2 seemed very difficult to us and we
 
 
 
+Youtube Video - https://youtube.com/shorts/KTRKu8plvEI?feature=shared
+
+
+
+
 
 
 
