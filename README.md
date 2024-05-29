@@ -12,3 +12,10 @@ https://robot-help.ru/lessons/lesson-10.html
 #Managing power and meaning.
 
 We use a lot of sensors. But the most important of them are: Ultrasonic sensor and Gyroscope and Color sensor. Each of them has its own responsibilities. We chose these sensors because they are more suitable for this category. For example, an ultrasonic sensor helps us see curbs and move back a little and turn around. And the color sensor will help us during the 2nd round.
+
+
+
+![photo_5384240254774532555_y](https://github.com/DiasAmangeldy/Twix/assets/171032458/72308b5f-ee19-4d92-86ef-57ea4d3d3d89)
+
+
+
