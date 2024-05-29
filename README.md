@@ -27,6 +27,7 @@ We use a lot of sensors. But the most important of them are: Ultrasonic sensor a
 
 Obstacle management is our 2nd round. Round 2 seemed very difficult to us and we spent a lot of time on Round 1 to complete it. We completed round 2 with the last remaining time. We used a color sensor for round 2. When he sees red he turns to the right and when he sees green he turns right. Our tactic is to complete round 1 and round 2 with at least 10 points.
 
+# 6 Images of robot
 
 ![IMG_6452 (1)](https://github.com/DiasAmangeldy/Twix/assets/171032458/a1ec984a-70db-4e65-908f-d7ada0193831)
 ![IMG_6449 (13)](https://github.com/DiasAmangeldy/Twix/assets/171032458/d97598db-3140-4713-9938-39864ffd9654)
