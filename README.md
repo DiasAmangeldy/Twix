@@ -22,6 +22,8 @@ Gyro sensor - https://robot-help.ru/lessons/lesson-10.html
 
 ![IMG_6511](https://github.com/DiasAmangeldy/Twix/assets/171032458/6bf9c307-6a58-459c-b4bc-6d706fb63cc3)
 
+![photo_5384493391557023608_y](https://github.com/DiasAmangeldy/Twix/assets/171032458/b6e87adc-529a-4885-9cd3-dc58250d03b3)
+
 
 
 
