@@ -19,3 +19,4 @@ We use a lot of sensors. But the most important of them are: Ultrasonic sensor a
 
 
 
+#Obstacle management
