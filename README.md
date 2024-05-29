@@ -45,7 +45,9 @@ Obstacle management is our 2nd round. Round 2 seemed very difficult to us and we
 
 
 
-![image](https://github.com/DiasAmangeldy/Twix/assets/171032458/1053db97-af22-49c8-8c18-3add4833e1ab)
+
+![image](https://github.com/DiasAmangeldy/Twix/assets/171032458/3f9fc7a4-d25c-4228-b2b7-09b035db9b6d)
+
 
 
 
