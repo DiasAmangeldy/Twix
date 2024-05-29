@@ -8,3 +8,5 @@ https://robot-help.ru/lessons/lesson-7.html
 https://robot-help.ru/lessons/lesson-5.html
 
 https://robot-help.ru/lessons/lesson-10.html
+
+#Managing power and meaning.
