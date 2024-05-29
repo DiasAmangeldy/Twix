@@ -5,7 +5,7 @@ Our robot is very lightweight, convenient and small. We made the robot small bec
 
 Ultrasonic sensor - https://robot-help.ru/lessons/lesson-7.html
 
-https://robot-help.ru/lessons/lesson-5.html
+Color sensor - https://robot-help.ru/lessons/lesson-5.html
 
 https://robot-help.ru/lessons/lesson-10.html
 
