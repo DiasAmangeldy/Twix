@@ -1,4 +1,6 @@
-![image](https://github.com/DiasAmangeldy/Twix/assets/171032458/a12383c6-c0d1-47b4-8a5b-45197c4a5e69)
+
+![image](https://github.com/DiasAmangeldy/Twix/assets/171032458/8ca2f101-34ad-4e2e-b5f6-3868413d3312)
+
 
 
 
