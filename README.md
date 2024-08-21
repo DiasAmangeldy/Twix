@@ -70,6 +70,11 @@ b)And if we talk about motors. We used 2 motors, one large and one medium. Why d
 
 
 
+![image](https://github.com/user-attachments/assets/ccef04da-35d5-4451-a634-9c10de6bbe83)
+
+
+
+
 
 
 
