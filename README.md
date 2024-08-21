@@ -58,11 +58,21 @@ Obstacle management is our 2nd round. Round 2 seemed very difficult to us and we
 # How did we make the robot?
 
 
+# About robot and sensors
+
+a) We tried to make the robot very compact and small. First, we created a schematic of the robot. Then we made the robot. We used 3 ultrasonic sensors in the robot and we used gyro sensor. We put ultrasonic sensor in front and right and left. Why do you say? Because, as we know, there is a border in the center of the map, and to see those borders, we need the right and left ultrasonic sensors. And the front ultrasonic helps us see the outer borders. And as for the gyro sensor, it helps us to always keep the robot at 0 degrees.
 
 
-a)We tried to make the robot very compact and small. First, we created a schematic of the robot. Then we made the robot. We used 3 ultrasonic sensors in the robot and we used gyro sensor. We put ultrasonic sensor in front and right and left. Why do you say? Because, as we know, there is a border in the center of the map, and to see those borders, we need the right and left ultrasonic sensors. And the front ultrasonic helps us see the outer borders. And as for the gyro sensor, it helps us to always keep the robot at 0 degrees.
+
+
 
 ![image](https://github.com/user-attachments/assets/43776ba1-4bb3-442b-a316-8e7757d8da31)
+
+
+
+
+# About motors
+
 
 
 
@@ -70,10 +80,16 @@ b)And if we talk about motors. We used 2 motors, one large and one medium. Why d
 
 
 
+
+
+
 ![image](https://github.com/user-attachments/assets/ccef04da-35d5-4451-a634-9c10de6bbe83)
 
 
 
+
+
+# About mechanism
 
 c)Now let's talk about the mechanism. It can be said that the mechanism is the most important thing in this race. The mechanism helps us turn left and right. In our competition, the mechanic can be said to take 50% of the game. We made the mechanism by looking at YouTube. And you can make such a mechanism using the link below.
 
