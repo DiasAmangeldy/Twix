@@ -79,6 +79,10 @@ c)Now let's talk about the mechanism. It can be said that the mechanism is the m
 
 
 
+![image](https://github.com/user-attachments/assets/a5458b16-fa89-44ed-a6f3-470c834da7af)
+
+
+
 https://youtu.be/0vYG6WmW8vY?si=ri6iMyyjVdezo_EQ
 
 
