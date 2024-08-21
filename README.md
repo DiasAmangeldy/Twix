@@ -79,6 +79,9 @@ c)Now let's talk about the mechanism. It can be said that the mechanism is the m
 
 
 
+https://youtu.be/0vYG6WmW8vY?si=ri6iMyyjVdezo_EQ
+
+
 
 
 
