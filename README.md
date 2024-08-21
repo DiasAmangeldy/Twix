@@ -66,6 +66,11 @@ a)We tried to make the robot very compact and small. First, we created a schemat
 
 
 
+b)And if we talk about motors. We used 2 motors, one large and one medium. Why do you think we put a big engine in the back?  Because as we know, bigger motors have more power and that's why we have bigger motors to respond to movement. And as for the average motor, we put it in front. Because it responds to the turn. As we know, we must use the mechanism in the rule, so we needed an average sensor to make the mechanism. And we will talk about the mechanism in part C.
+
+
+
+
 
 
 # 6 Images of robot
