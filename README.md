@@ -105,6 +105,21 @@ https://youtu.be/0vYG6WmW8vY?si=ri6iMyyjVdezo_EQ
 
 
 
+# About code 
+
+d)And now let's talk about the code. The main feature of our code is to always keep the robot straight, i.e. at 0 degrees. And if it exceeds 0 degrees, we always correct it using the mechanism. In addition, we tried to turn the robot exactly 90 degrees when turning. And for the edge eyes, we wrote the code to rotate when we see the borders
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/1596fa70-5bb1-49dc-a883-7894180c022e)
+
+
+
+
+
+
 
 # 6 Images of robot
 
