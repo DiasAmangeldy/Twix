@@ -75,6 +75,11 @@ b)And if we talk about motors. We used 2 motors, one large and one medium. Why d
 
 
 
+c)Now let's talk about the mechanism. It can be said that the mechanism is the most important thing in this race. The mechanism helps us turn left and right. In our competition, the mechanic can be said to take 50% of the game. We made the mechanism by looking at YouTube. And you can make such a mechanism using the link below.
+
+
+
+
 
 
 
