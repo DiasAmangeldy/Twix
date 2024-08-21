@@ -62,7 +62,8 @@ Obstacle management is our 2nd round. Round 2 seemed very difficult to us and we
 
 a)We tried to make the robot very compact and small. First, we created a schematic of the robot. Then we made the robot. We used 3 ultrasonic sensors in the robot and we used gyro sensor. We put ultrasonic sensor in front and right and left. Why do you say? Because, as we know, there is a border in the center of the map, and to see those borders, we need the right and left ultrasonic sensors. And the front ultrasonic helps us see the outer borders. And as for the gyro sensor, it helps us to always keep the robot at 0 degrees.
 
-![image](https://github.com/user-attachments/assets/5102dc4b-1b33-4503-8449-cb15c59778d6)
+![image](https://github.com/user-attachments/assets/43776ba1-4bb3-442b-a316-8e7757d8da31)
+
 
 
 
