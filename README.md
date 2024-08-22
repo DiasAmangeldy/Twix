@@ -1,4 +1,4 @@
-
+ы
 ![image](https://github.com/DiasAmangeldy/Twix/assets/171032458/8ca2f101-34ad-4e2e-b5f6-3868413d3312)
 
 
@@ -61,6 +61,13 @@ Obstacle management is our 2nd round. Round 2 seemed very difficult to us and we
 # About robot and sensors
 
 a) We tried to make the robot very compact and small. First, we created a schematic of the robot. Then we made the robot. We used 3 ultrasonic sensors in the robot and we used gyro sensor. We put ultrasonic sensor in front and right and left. Why do you say? Because, as we know, there is a border in the center of the map, and to see those borders, we need the right and left ultrasonic sensors. And the front ultrasonic helps us see the outer borders. And as for the gyro sensor, it helps us to always keep the robot at 0 degrees.
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/0f972924-98c6-4f27-b3ca-8c213adb96a2)
+
 
 
 
