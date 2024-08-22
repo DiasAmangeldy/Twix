@@ -60,7 +60,8 @@ Obstacle management is our 2nd round. Round 2 seemed very difficult to us and we
 
 # About robot and sensors
 
-a) We tried to make the robot very compact and small. First, we created a schematic of the robot. Then we made the robot. We used 3 ultrasonic sensors in the robot and we used gyro sensor. We put ultrasonic sensor in front and right and left. Why do you say? Because, as we know, there is a border in the center of the map, and to see those borders, we need the right and left ultrasonic sensors. And the front ultrasonic helps us see the outer borders. And as for the gyro sensor, it helps us to always keep the robot at 0 degrees.
+a)We tried to make the robot very compact and small. First, we created a schematic of the robot. Then we made the robot. We used 3 ultrasonic sensors and a gyro sensor in the robot. They are connected to parts "1, 2, 3". We put the ultrasonic sensor forward and to the right and to the left. Why do you say? Because, as we know, there is a border in the center of the map, and to see those borders, we need the right and left ultrasonic sensors. And the front ultrasonic helps us see the outer borders. As for the gyro sensor, it helps us keep the robot always at 90 degrees. And it is connected to "4" parts.
+.
 
 
 
@@ -83,8 +84,7 @@ a) We tried to make the robot very compact and small. First, we created a schema
 
 
 
-b)And if we talk about motors. We used 2 motors, one large and one medium. Why do you think we put a big engine in the back?  Because as we know, bigger motors have more power and that's why we have bigger motors to respond to movement. And as for the average motor, we put it in front. Because it responds to the turn. As we know, we must use the mechanism in the rule, so we needed an average sensor to make the mechanism. And we will talk about the mechanism in part C.
-
+b)And if we talk about motors. We used 2 motors, one large and one medium. The large one is connected to the "A" part, and the medium one is connected to the "B" part. Why do you think we put a big engine in the back?  Because as we know, bigger motors have more power and that's why we have bigger motors to respond to movement. And as for the average motor, we put it in front. Because it responds to the turn. As we know, we must use the mechanism in the rule, so we needed an average sensor to make the mechanism.
 
 
 
@@ -98,8 +98,7 @@ b)And if we talk about motors. We used 2 motors, one large and one medium. Why d
 
 # About mechanism
 
-c)Now let's talk about the mechanism. It can be said that the mechanism is the most important thing in this race. The mechanism helps us turn left and right. In our competition, the mechanic can be said to take 50% of the game. We made the mechanism by looking at YouTube. And you can make such a mechanism using the link below.
-
+c)Now let's talk about the mechanism. It can be said that the mechanism is the most important thing in this race. The mechanism helps us turn left and right. And the mechanism is connected to the "B" part. In our competition, the mechanic can be said to take 50% of the game. We made the mechanism by looking at YouTube. And you can make such a mechanism using the link below.
 
 
 ![image](https://github.com/user-attachments/assets/a5458b16-fa89-44ed-a6f3-470c834da7af)
