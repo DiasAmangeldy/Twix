@@ -7,35 +7,35 @@
 
 
 
-B block-In B block  we will talk about which sensors we have used.
+*B block*-In B block  we will talk about which sensors we have used.
 
 
 
 
-C block-In C block  we talk about the second round of the competition and talk about our tactics.
+*C block*-In C block  we talk about the second round of the competition and talk about our tactics.
 
 
 
-D block-In D block  tells about how we created the robot and, what mechanism, sensors, motors we used and their functions.
+*D block*-In D block  tells about how we created the robot and, what mechanism, sensors, motors we used and their functions.
 
 
 
-E block-F block contains 6 photo of the robot (from every side)
-
-
-
-
-F block-E block contains 1 photo of the team.
+*E block*-F block contains 6 photo of the robot (from every side)
 
 
 
 
-Video-The video in which our robot passed the map.
+*F block*-E block contains 1 photo of the team.
 
 
 
 
-Scheme- has a scheme of our robot
+*Video*-The video in which our robot passed the map.
+
+
+
+
+*Scheme*- has a scheme of our robot
 
 
 
