@@ -73,6 +73,10 @@ We use a lot of sensors. But the most important of them are: Ultrasonic sensor a
 
 ![photo_5384240254774532555_y](https://github.com/DiasAmangeldy/Twix/assets/171032458/72308b5f-ee19-4d92-86ef-57ea4d3d3d89)
 
+
+
+# Scheme
+
 ![image](https://github.com/DiasAmangeldy/Twix/assets/171032458/98e5b290-632c-4b0b-8eb1-d3830f598352)
 
 
