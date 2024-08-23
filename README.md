@@ -2,40 +2,40 @@
 ![image](https://github.com/DiasAmangeldy/Twix/assets/171032458/8ca2f101-34ad-4e2e-b5f6-3868413d3312)
 
 # Content 
-*A block*-In A block  we talk about the robot and we will talk about the functions of each of the sensors.
+**A block**-In A block  we talk about the robot and we will talk about the functions of each of the sensors.
 
 
 
 
-*B block*-In B block  we will talk about which sensors we have used.
+**B block**-In B block  we will talk about which sensors we have used.
 
 
 
 
-*C block*-In C block  we talk about the second round of the competition and talk about our tactics.
+**C block**-In C block  we talk about the second round of the competition and talk about our tactics.
 
 
 
-*D block*-In D block  tells about how we created the robot and, what mechanism, sensors, motors we used and their functions.
+**D block**-In D block  tells about how we created the robot and, what mechanism, sensors, motors we used and their functions.
 
 
 
-*E block*-F block contains 6 photo of the robot (from every side)
-
-
-
-
-*F block*-E block contains 1 photo of the team.
+**E block**-F block contains 6 photo of the robot (from every side)
 
 
 
 
-*Video*-The video in which our robot passed the map.
+**F block**-E block contains 1 photo of the team.
 
 
 
 
-*Scheme*- has a scheme of our robot
+**Video**-The video in which our robot passed the map.
+
+
+
+
+**Scheme**- has a scheme of our robot
 
 
 
