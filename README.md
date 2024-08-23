@@ -111,11 +111,6 @@ a)We tried to make the robot very compact and small. First, we created a schemat
 
 
 
-![image](https://github.com/user-attachments/assets/0f972924-98c6-4f27-b3ca-8c213adb96a2)
-
-
-
-
 
 
 ![image](https://github.com/user-attachments/assets/43776ba1-4bb3-442b-a316-8e7757d8da31)
@@ -189,7 +184,7 @@ d)And now let's talk about the code. The main feature of our code is to always k
 ![IMG_6443 (1) (1)](https://github.com/DiasAmangeldy/Twix/assets/171032458/897acd9b-ace5-4e4b-bd82-7699e4aaf91c)
 
 
-
+# Video
 
 Youtube Video - https://youtube.com/shorts/KTRKu8plvEI?feature=shared
 
