@@ -5,7 +5,7 @@
 
 
 
-
+# A BLOCK
 
 # Mobility Management 
 
@@ -26,7 +26,7 @@ Gyro sensor - https://robot-help.ru/lessons/lesson-10.html
 
 
 
-
+# B BLOCK
 
 # Managing power and meaning.
 
@@ -39,7 +39,7 @@ We use a lot of sensors. But the most important of them are: Ultrasonic sensor a
 ![image](https://github.com/DiasAmangeldy/Twix/assets/171032458/98e5b290-632c-4b0b-8eb1-d3830f598352)
 
 
-
+# C BLOCK
 
 # Obstacle management
 
@@ -53,9 +53,12 @@ Obstacle management is our 2nd round. Round 2 seemed very difficult to us and we
 
 
 
-
+# D BLOCK
 
 # How did we make the robot?
+
+
+
 
 
 # About robot and sensors
@@ -124,7 +127,7 @@ d)And now let's talk about the code. The main feature of our code is to always k
 
 
 
-
+# E BLOCK
 
 
 # 6 Images of robot
@@ -134,7 +137,11 @@ d)And now let's talk about the code. The main feature of our code is to always k
 ![IMG_6448](https://github.com/DiasAmangeldy/Twix/assets/171032458/a8bd0014-84dd-426f-8aa1-d836d127f0fe)
 ![IMG_6451](https://github.com/DiasAmangeldy/Twix/assets/171032458/d67e0620-5c36-46ea-93e5-ee5f5cf208aa)
 ![IMG_6450](https://github.com/DiasAmangeldy/Twix/assets/171032458/b51ee68e-d650-4a0f-a79b-cd21c473a4c3)
-![IMG_6446 (2)](https://github.com/DiasAmangeldy/Twix/assets/171032458/5222667d-6580-4a05-8910-6ba5daa2cbfe)
+![IMG_6446 (2)](https://github.com/DiasAmangeldy/Twix/assets/171032458/5222667d-6580-4a05-8910-6ba5daa2cbfe)   
+
+
+
+# F BLOCK
 
 
 # 1 Image of team
