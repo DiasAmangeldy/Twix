@@ -35,7 +35,7 @@ Video-The video in which our robot passed the map.
 
 
 
-Scheme-which has a scheme of our robot
+Scheme- has a scheme of our robot
 
 
 
