@@ -20,13 +20,12 @@ D block-In D bkock  tells about how we created the robot and, what mechanism, se
 
 
 
-E block-E block contains 1 photo of the team.
-
-
-
-
 F block-F block contains 6 photo of the robot (from every side)
 
+
+
+
+E block-E block contains 1 photo of the team.
 
 
 
