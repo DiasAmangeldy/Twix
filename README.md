@@ -3,7 +3,14 @@
 
 # Content 
 A block-In A block  we talk about the robot and we will talk about the functions of each of the sensors.
+
+
+
 B block-In B block  we will talk about which sensors we have used.
+
+
+
+
 C block-In C block  we talk about the second round of the competition and talk about our tactics.
 
 
