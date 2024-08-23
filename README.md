@@ -30,7 +30,7 @@ F block-E block contains 1 photo of the team.
 
 
 
-Video-The video in  our robot passed the map.
+Video-The video in which our robot passed the map.
 
 
 
