@@ -20,12 +20,12 @@
 
 
 
-**E block**-F block contains 6 photo of the robot (from every side)
+**E block**-E block contains 6 photo of the robot (from every side)
 
 
 
 
-**F block**-E block contains 1 photo of the team.
+**F block**-F block contains 1 photo of the team.
 
 
 
