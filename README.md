@@ -2,7 +2,7 @@
 ![image](https://github.com/DiasAmangeldy/Twix/assets/171032458/8ca2f101-34ad-4e2e-b5f6-3868413d3312)
 
 # Content 
-A block-In A block  we talk about the robot and we will talk about the functions of each of the sensors.
+*A block*-In A block  we talk about the robot and we will talk about the functions of each of the sensors.
 
 
 
