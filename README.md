@@ -15,7 +15,7 @@
 
 
 
-**C block**-In C block  we talk about the second round of the competition and talk about our tactics.
+**C block**-In C block  we talk about the Obstacle management and second round of the competition and talk about our tactics.
 
 
 
