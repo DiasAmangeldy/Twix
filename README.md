@@ -10,7 +10,7 @@
 
 
 
-**B block**-In B block  we will talk about Managing which sensors we have used.
+**B block**-In B block  we will talk about Managing power and meaning and which sensors we have used.
 
 
 
