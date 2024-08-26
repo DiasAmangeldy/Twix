@@ -171,8 +171,9 @@ d)And now let's talk about the code. The main feature of our code is to always k
 
 # 6 Images of robot
 
-![IMG_6452 (1)](https://github.com/DiasAmangeldy/Twix/assets/171032458/a1ec984a-70db-4e65-908f-d7ada0193831)
-![IMG_6449 (13)](https://github.com/DiasAmangeldy/Twix/assets/171032458/d97598db-3140-4713-9938-39864ffd9654)
+![image](https://github.com/user-attachments/assets/54cd8535-780f-4dbb-9c4f-48c30bf6343c)
+![Uploading image.png…]()
+
 ![IMG_6448](https://github.com/DiasAmangeldy/Twix/assets/171032458/a8bd0014-84dd-426f-8aa1-d836d127f0fe)
 ![IMG_6451](https://github.com/DiasAmangeldy/Twix/assets/171032458/d67e0620-5c36-46ea-93e5-ee5f5cf208aa)
 ![IMG_6450](https://github.com/DiasAmangeldy/Twix/assets/171032458/b51ee68e-d650-4a0f-a79b-cd21c473a4c3)
