@@ -12,7 +12,7 @@
 
 **B block**-In B block  we will talk about Managing power and meaning and which sensors we have used. 
 
-
+**Scheme**- has a scheme of our robot
 
 
 **C block**-In C block  we talk about the Obstacle management and second round of the competition and talk about our tactics.
@@ -32,13 +32,12 @@
 
 
 
-
 **Video**-The video in which our robot passed the map.
 
 
 
 
-**Scheme**- has a scheme of our robot
+
 
 
 
@@ -49,8 +48,8 @@
 
 # Mobility Management 
 
-Robot program in the category of future engineers The robot is assembled on the Lego platform.
-Our robot is very lightweight, convenient and small. 25 %.  We made the robot small because when a robot is small it can be very fast and technical. We used sensors like ultrasonic sensor and gyroscope and color sensor. Each of them has their own responsibilities. For example: a gyroscope helps us keep 90• in movements. We made the speed very low so that he would not quickly lose track of his movements and see the wrists.
+Robot program in the category of future engineers The robot is assembled on the Lego ev3 platform.
+Our robot is very lightweight, convenient and small. 25 %.  We made the robot small because when a robot is small it can be very fast and technical. We used sensors like ultrasonic sensor and gyroscope and color sensor. Each of them has their own responsibilities. For example: a gyroscope helps us keep 90• in movements and helps move straight. We made the speed very low so that he would not quickly lose track of his movements and see the wrists. 
 
 Ultrasonic sensor - https://robot-help.ru/lessons/lesson-7.html
 
@@ -70,7 +69,8 @@ Gyro sensor - https://robot-help.ru/lessons/lesson-10.html
 
 # Managing power and meaning.
 
-The robot is assembled on the Lego platform, we used a lego battery with 10 volts.We use a lot of sensors. But the most important of them are: Ultrasonic sensor and Gyroscope and Color sensor. Each of them has its own responsibilities. We chose these sensors because they are more suitable for this category.25%  For example, an ultrasonic sensor helps us see curbs and move back a little and turn around. And the color sensor will help us during the 2nd round.
+The robot is assembled on the Lego ev3 platform, we used a lego battery with 10 volts. We use a lot of sensors. But the most important of them are: Ultrasonic sensor and Gyroscope and Color sensor. Each of them has its own responsibilities. We chose these sensors because they are more suitable for this category.25%  For example, an ultrasonic sensor helps us see curbs and move back a little and turn around. And the color sensor will help us during the 2nd round.
+Color sensor helps with turnings. It detects blue and orange lines on the map and gives command to start and end turnings. Ultrasonic makes robot stay away from borders, so prevents hitting to the borders. And as it mentioned above gyroscope makes robot move straight.
 
 
 
@@ -107,7 +107,7 @@ Obstacle management is our 2nd round. Round 2 seemed very difficult to us and we
 
 # About robot and sensors
 
-a)We tried to make the robot very compact and small. First, we created a schematic of the robot. Then we made the robot. We used 3 ultrasonic sensors and a gyro sensor in the robot. They are connected to parts "1, 2, 3". We put the ultrasonic sensor forward and to the right and to the left. Why do you say? Because, as we know, there is a border in the center of the map, and to see those borders, we need the right and left ultrasonic sensors. And the front ultrasonic helps us see the outer borders. As for the gyro sensor, it helps us keep the robot always at 90 degrees. And it is connected to "4" parts.
+a)We tried to make the robot very compact and small. First, we created a schematic of the robot. Then we made the robot. We used 3 ultrasonic sensors and a gyro sensor in the robot. They are connected to ports "1, 2, 3". We put the ultrasonic sensor forward and to the right and to the left. Why do you say? Because, as we know, there is a border in the center of the map, and to see those borders, we need the right and left ultrasonic sensors. And the front ultrasonic helps us see the outer borders. As for the gyro sensor, it helps us keep the robot always at 90 degrees. And it is connected to port "4".
 .
 
 
@@ -126,7 +126,7 @@ a)We tried to make the robot very compact and small. First, we created a schemat
 
 
 
-b)And if we talk about motors. We used 2 motors, one large and one medium. The large one is connected to the "A" part, and the medium one is connected to the "B" part. Why do you think we put a big engine in the back?  Because as we know, bigger motors have more power and that's why we have bigger motors to respond to movement. And as for the average motor, we put it in front. Because it responds to the turn. As we know, we must use the mechanism in the rule, so we needed an average sensor to make the mechanism.
+b)And if we talk about motors. We used 2 motors, one large and one medium. The large one is connected to the "A" port, and the medium one is connected to the "B" port. Why do you think we put a big engine in the back?  Because as we know, bigger motors have more power and that's why we have bigger motors to respond to movement. And as for the medium motor, we put it in front. Because it responds to the turn. As we know, we must use the mechanism in the rule, so we needed a medium mototr to make the mechanism. 
 
 
 
@@ -140,14 +140,13 @@ b)And if we talk about motors. We used 2 motors, one large and one medium. The l
 
 # About mechanism
 
-c)Now let's talk about the mechanism. It can be said that the mechanism is the most important thing in this race. The mechanism helps us turn left and right. And the mechanism is connected to the "B" part. In our competition, the mechanic can be said to take 50% of the game. We made the mechanism by looking at YouTube. And you can make such a mechanism using the link below.
+c)Now let's talk about the mechanism. It can be said that the mechanism is the most important thing in this race. The mechanism helps us turn left and right. And the mechanism is connected to the port "B". In our competition, the mechanic can be said to take 50% of the game. We made the mechanism by using medium motor. We used medium motor for the turning mechanism due to it's compact size and faster speed.
 
 
 ![image](https://github.com/user-attachments/assets/a5458b16-fa89-44ed-a6f3-470c834da7af)
 
 
 
-https://youtu.be/0vYG6WmW8vY?si=ri6iMyyjVdezo_EQ
 
 
 
@@ -155,7 +154,7 @@ https://youtu.be/0vYG6WmW8vY?si=ri6iMyyjVdezo_EQ
 
 # About code 
 
-d)And now let's talk about the code. The main feature of our code is to always keep the robot straight, i.e. at 0 degrees. And if it exceeds 0 degrees, we always correct it using the mechanism. In addition, we tried to turn the robot exactly 90 degrees when turning. And for the edge eyes, we wrote the code to rotate when we see the borders
+d)And now let's talk about the code. The main feature of our code is to always keep the robot straight, i.e. at 0 degrees. And if it exceeds 0 degrees, we always correct it using the mechanism. In addition, we tried to turn the robot exactly 90 degrees when turning. And to prevent hitiing the borders we use ultrasonic sensors. Robot turns from the wall when the distance is less than 10cm. 
 
 
 
