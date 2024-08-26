@@ -172,10 +172,12 @@ d)And now let's talk about the code. The main feature of our code is to always k
 # 6 Images of robot
 
 ![image](https://github.com/user-attachments/assets/54cd8535-780f-4dbb-9c4f-48c30bf6343c)
+![image](https://github.com/user-attachments/assets/c2cca047-22fa-40b1-bc65-3011b20eab0d)
+
+![image](https://github.com/user-attachments/assets/49ff40bc-9dc8-42b7-b3ec-35e6f5f630ab)
+
 ![Uploading image.png…]()
 
-![IMG_6448](https://github.com/DiasAmangeldy/Twix/assets/171032458/a8bd0014-84dd-426f-8aa1-d836d127f0fe)
-![IMG_6451](https://github.com/DiasAmangeldy/Twix/assets/171032458/d67e0620-5c36-46ea-93e5-ee5f5cf208aa)
 ![IMG_6450](https://github.com/DiasAmangeldy/Twix/assets/171032458/b51ee68e-d650-4a0f-a79b-cd21c473a4c3)
 ![IMG_6446 (2)](https://github.com/DiasAmangeldy/Twix/assets/171032458/5222667d-6580-4a05-8910-6ba5daa2cbfe)   
 
