@@ -74,7 +74,8 @@ We use a lot of sensors. But the most important of them are: Ultrasonic sensor a
 
 
 
-![photo_5384240254774532555_y](https://github.com/DiasAmangeldy/Twix/assets/171032458/72308b5f-ee19-4d92-86ef-57ea4d3d3d89)
+![photo_5359305826432574727_y-Photoroom](https://github.com/user-attachments/assets/be9da56d-e8dc-49c7-97ff-c73e0e16e8b1)
+
 
 
 
