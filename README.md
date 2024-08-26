@@ -143,7 +143,11 @@ b)And if we talk about motors. We used 2 motors, one large and one medium. The l
 c)Now let's talk about the mechanism. It can be said that the mechanism is the most important thing in this race. The mechanism helps us turn left and right. And the mechanism is connected to the port "B". In our competition, the mechanic can be said to take 50% of the game. We made the mechanism by using medium motor. We used medium motor for the turning mechanism due to it's compact size and faster speed.
 
 
-![image](https://github.com/user-attachments/assets/a5458b16-fa89-44ed-a6f3-470c834da7af)
+![image](https://github.com/user-attachments/assets/e25f91be-cbae-4340-ae1d-ab916b04073b)
+
+![image](https://github.com/user-attachments/assets/b9c84581-e14e-4840-8957-0bcbf46ca937)
+
+
 
 
 
