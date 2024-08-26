@@ -176,10 +176,12 @@ d)And now let's talk about the code. The main feature of our code is to always k
 
 ![image](https://github.com/user-attachments/assets/49ff40bc-9dc8-42b7-b3ec-35e6f5f630ab)
 
+
+
 ![Uploading image.png…]()
 
-![IMG_6450](https://github.com/DiasAmangeldy/Twix/assets/171032458/b51ee68e-d650-4a0f-a79b-cd21c473a4c3)
-![IMG_6446 (2)](https://github.com/DiasAmangeldy/Twix/assets/171032458/5222667d-6580-4a05-8910-6ba5daa2cbfe)   
+
+
 
 
 
