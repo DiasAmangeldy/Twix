@@ -176,8 +176,6 @@ d)And now let's talk about the code. The main feature of our code is to always k
 
 ![image](https://github.com/user-attachments/assets/49ff40bc-9dc8-42b7-b3ec-35e6f5f630ab)
 
-
-
 ![image](https://github.com/user-attachments/assets/c30ddaf4-08e7-4098-9f02-f6a4437df5e1)
 ![image](https://github.com/user-attachments/assets/c46a573b-4973-4fd9-b970-18ee9c91bc0e)
 ![image](https://github.com/user-attachments/assets/4f274dea-99ba-455a-952e-1ad9455e6243)
